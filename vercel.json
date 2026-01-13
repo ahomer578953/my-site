@@ -4,5 +4,6 @@
       "source": "/sitemap.xml",
       "destination": "/sitemap-index.xml"
     }
-  ]
+  ],
+  "cleanUrls": true
 }
